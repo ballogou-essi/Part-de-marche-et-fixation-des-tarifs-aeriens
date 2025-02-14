@@ -39,7 +39,9 @@ Variables principales :
  - library(tibble)
  - library(dplyr)
  - library(stargazer)
+   
+**Conclusion**
+Cette analyse met en évidence l'impact significatif de la concentration du marché sur les tarifs aériens aux États-Unis entre 1997 et 2000. Les compagnies dominant certaines routes tendent à appliquer des prix plus élevés, tandis que la distance et la fréquentation influencent également les coûts de manière non linéaire. L’hétérogénéité des routes joue un rôle clé dans la formation des prix, et bien que les effets fixes permettent de capturer une partie de cette variabilité, des défis méthodologiques subsistent, notamment en raison de possibles problèmes d'endogénéité. Des recherches futures pourraient explorer des méthodes alternatives pour mieux isoler ces effets.
 
 *Source des données*
-
 Dataset Airfare - Wooldridge
