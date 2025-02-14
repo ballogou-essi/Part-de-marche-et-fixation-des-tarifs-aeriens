@@ -31,14 +31,14 @@ Variables principales :
  - Données limitées aux itinéraires nationaux des États-Unis
 
 **Packages R utilisés**
-install.packages("tibble")       # Manipulation de tableaux de données
-install.packages("dplyr")        # Traitement des données
-install.packages("stargazer")    # Présentation des résultats de régression
+ - install.packages("tibble")       # Manipulation de tableaux de données
+ - install.packages("dplyr")        # Traitement des données
+ - install.packages("stargazer")    # Présentation des résultats de régression
 
-library(wooldridge)  # Importation des données airfare
-library(tibble)
-library(dplyr)
-library(stargazer)
+ - library(wooldridge)  # Importation des données airfare
+ - library(tibble)
+ - library(dplyr)
+ - library(stargazer)
 
 *Source des données*
 
